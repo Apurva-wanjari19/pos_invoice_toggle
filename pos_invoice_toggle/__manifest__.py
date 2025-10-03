@@ -9,6 +9,7 @@
 
     """,
     'author': "Apurva Wanjari",
+    'license': 'LGPL-3',
     'category': 'point of sale',
     'website': 'https://apps.odoo.com/apps/modules/browse?search=apurva+wanjari',
     "version": "17.0",
